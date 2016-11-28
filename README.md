@@ -1,1 +1,3 @@
-# vendor_hermes_cm13
+# android_vendor_xiaomi_hermes
+
+vendor AOSP 6.0 22.09
